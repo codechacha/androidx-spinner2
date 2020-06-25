@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="title01">10 Best Practices for Moving to a Single Activity</string>
+    <string name="title02">Cost of a Pixel Color (Android Dev Summit 18)</string>
+    <string name="title03">Foldables, App Bundles and more from Android Dev Summit 18!</string>
+    <string name="title04">Fun with LiveData (Android Dev Summit 18)</string>
+    <string name="title05">Keynote (Android Dev Summit 18)</string>
+    <string name="title06">Modern WebView Best Practices (Android Dev Summit 18)</string>
+    <string name="title07">Performance Analysis Using Systrace (Android Dev Summit 18)</string>
+    <string name="title08">Preferential Practices for Preferences (Android Dev Summit 18)</string>
+    <string name="title09">That’s a wrap on Android Dev Summit 2018!</string>
+    <string name="title10">Vitals: Past, Present and Future (Android Dev Summit 18)</string>
+
+    <string name="io_title01">Keynote</string>
+    <string name="io_title02">Android: Open to the future</string>
+    <string name="io_title03">Wear OS by Google</string>
+    <string name="io_url01">https://www.youtube.com/watch?v=lyRPyRKHO8M</string>
+    <string name="io_url02">youtube.com/watch?v=5aYSxW1e638</string>
+    <string name="io_url03">https://www.youtube.com/watch?v=yO5W_nGPv8M</string>
+
+    <string name="url01">https://www.youtube.com/watch?v=9O1D_Ytk0xg</string>
+    <string name="url02">https://www.youtube.com/watch?v=N_6sPd0Jd3g</string>
+    <string name="url03">https://www.youtube.com/watch?v=59Xj9tztQWU</string>
+    <string name="url04">https://www.youtube.com/watch?v=2rO4r-JOQtA</string>
+    <string name="url05">https://www.youtube.com/watch?v=ei_5R0CvLm4</string>
+    <string name="url06">https://www.youtube.com/watch?v=HGZYtDZhOEQ</string>
+    <string name="url07">https://www.youtube.com/watch?v=9AeXMVUUk3I</string>
+    <string name="url08">https://www.youtube.com/watch?v=PS9jhuHECEQ</string>
+    <string name="url09">https://www.youtube.com/watch?v=yLc6VFC-Wgk</string>
+    <string name="url10">https://www.youtube.com/watch?v=BQvKPP5Vvyg</string>
+
+</resources>
